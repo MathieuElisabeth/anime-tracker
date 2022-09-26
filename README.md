@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# Trackanime
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Perfect for people who are passionate about anime and want to keep track of what they have watched. You can indicate which episode you are on, to know how many you have left.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+I use Jikan API[https://jikan.moe/]
+
+## Techno
+
+Vue JS
+Vite JS
+
+## Start the project
+
+```
+npm init
+npm run dev
+```
+
+## Build the project
+
+```
+npm run build
+```
